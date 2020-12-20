@@ -9,7 +9,7 @@ nishika_composer
 ┣ src <- ノートブック以外
 ┗ output
 ```
-## about notebook
+## about notebooks
 |No|概要|
 |---|---|
 |001|test, trainの各ファイルを30秒ごとにトリミング|
