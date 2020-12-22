@@ -14,3 +14,4 @@ nishika_composer
 |---|---|
 |001|test, trainの各ファイルを30秒ごとにトリミング|
 |002|mel spectrogramの作成、リサイズ|
+|003|tutorialのモデル作成|
